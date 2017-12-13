@@ -1,7 +1,7 @@
 {
   "name": "graphql-for-beginners",
   "version": "1.0.0",
-  "description": "",
+  "description": "Introduction to Graphql tutorial",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
